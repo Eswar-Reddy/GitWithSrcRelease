@@ -10,6 +10,14 @@
         <name>ApexClass</name>
     </types>
     <types>
+        <members>Computer__c.ComputerHelpMail__c</members>
+        <members>Computer__c.ComputerHelpURL__c</members>
+        <members>Computer__c.ComputerInfo__c</members>
+        <members>Computer__c.ComputerLastUsed__c</members>
+        <members>Computer__c.ComputerPrice__c</members>
+        <name>CustomField</name>
+    </types>
+    <types>
         <members>Computer__c</members>
         <name>CustomObject</name>
     </types>
